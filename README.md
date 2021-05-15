@@ -30,3 +30,16 @@ Ports
 - [PHP implementation by @SaschaKersken (German translator of CCSPiP)](https://github.com/SaschaKersken/ClassicComputerScienceProblemsInPhp)
 - [JavaScript implementation by @SaschaKersken (German translator of CCSPiP)](https://github.com/SaschaKersken/ClassicComputerScienceProblemsInJavaScript)
 - [Ruby implementation by @tj84](https://github.com/tj84/cs_problems)
+
+
+Rearrange
+=========
+
+This module is used for rearrenging names.
+This is the second dummy line, just an experiment.
+
+## Simple bullets
+
+ * Calling 'rearrange_name("Turing, Alan")' will return '"Alan Turin"'
+ * Calling 'rearrange_name("Hopper, Grace M.")' will return '"Grace M. Hopper"'
+ * Calling 'rearrange_name("Тесла, Никола")' will return '"Никола Тесла"'
